@@ -1,0 +1,15 @@
+<Project>
+    <PropertyGroup>
+        <Version>0.1.0</Version>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <Authors>interlayer.space community</Authors>
+        <Company>interlayer.space</Company>
+        
+        <PackageTags>interoperability serialization deserialization mapping</PackageTags>
+        <PackageLicenseExpression>MIT OR UPL-1.0</PackageLicenseExpression>
+        <IncludeSource>true</IncludeSource>
+        <IncludeSymbols>true</IncludeSymbols>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+        <RepositoryUrl>git@github.com:interlayer-space/structure.elementary-cs.git</RepositoryUrl>
+    </PropertyGroup>
+</Project>
