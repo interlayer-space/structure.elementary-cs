@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <RootNamespace>Interlayer.Structure.Elementary.Alpha.Translation</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Interlayer.Structure.Elementary.Alpha\Interlayer.Structure.Elementary.Alpha.csproj" />
+    </ItemGroup>
+
+</Project>
